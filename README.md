@@ -114,7 +114,7 @@ Through this project, I gained practical experience in:
 
 ## 🙏 Acknowledgements
 
-Developed as part of my learning journey at **Lovely Professional University (LPU)**.
+Developed as part of my learning journey.
 
 Thanks to my teacher for the guidance and support throughout the learning process.
 
@@ -123,7 +123,6 @@ Thanks to my teacher for the guidance and support throughout the learning proces
 **Vivek Sharma**
 
 B.Tech — Information Technology
-Lovely Professional University (LPU)
 
 ---
 
